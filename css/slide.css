@@ -1,4 +1,4 @@
-body{
+/* body{
     background-image: 
         linear-gradient(
             to top right, #1d66bf, #6131b3
@@ -8,7 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 .slider{
     position: relative;
     width: 100%;

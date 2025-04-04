@@ -195,11 +195,12 @@ h2 {
 }
 
 .page-left {
-    margin-left: 100px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .page-right {
-    margin-right: 100px;
+    margin-right: auto;
     margin-left: auto;
 }
 

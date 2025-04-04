@@ -594,8 +594,9 @@ figure.effect-julia:hover p {
 
     .intro-right {
         display: flex;
-        align-items: flex-start;
-        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 
     .intro-container {
